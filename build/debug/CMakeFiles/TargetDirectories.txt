@@ -1,0 +1,3 @@
+/Users/maximefiastre/Documents/info 3D/csc43043ep-lab-code-main/08_project/build/debug/CMakeFiles/project.dir
+/Users/maximefiastre/Documents/info 3D/csc43043ep-lab-code-main/08_project/build/debug/CMakeFiles/edit_cache.dir
+/Users/maximefiastre/Documents/info 3D/csc43043ep-lab-code-main/08_project/build/debug/CMakeFiles/rebuild_cache.dir
